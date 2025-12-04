@@ -1,4 +1,4 @@
-// eetcode.com/problems/find-the-duplicate-number/description/
+// leetcode.com/problems/find-the-duplicate-number/description/
 
 package Array;
 
